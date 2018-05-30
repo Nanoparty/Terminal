@@ -3,6 +3,8 @@ A tile based memory game for Android
 
 *Finished*
 
+Available on GooglePlay @ https://play.google.com/store/apps/details?id=com.terminal.android
+
 A game build for android and released on Google Play under Nanoriot
 
 Built with Java and LibGDX
