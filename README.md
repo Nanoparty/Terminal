@@ -17,6 +17,6 @@ Hard - 6x6
 Gives the player 5 seconds to memorize a partially filled grid of squares and they must fill the grid back in correctly.
 
 
-![screenshot](https://github.com/Nanoparty/Terminal/blob/master/ter1.PNG)
+![screenshot](https://github.com/Nanoparty/Terminal/blob/master/green.png)
 ![screenshot](https://github.com/Nanoparty/Terminal/blob/master/orange.png)
 ![screenshot](https://github.com/Nanoparty/Terminal/blob/master/blue.png)
