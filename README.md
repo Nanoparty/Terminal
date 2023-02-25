@@ -18,4 +18,5 @@ Gives the player 5 seconds to memorize a partially filled grid of squares and th
 
 
 ![screenshot](https://github.com/Nanoparty/Terminal/blob/master/ter1.PNG)
-
+![screenshot](https://github.com/Nanoparty/Terminal/blob/master/orange.PNG)
+![screenshot](https://github.com/Nanoparty/Terminal/blob/master/blue.PNG)
